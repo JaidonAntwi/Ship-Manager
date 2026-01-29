@@ -1,4 +1,4 @@
-Ship Inheritance and Polymorphism (C++)
+Ship Manager (C++)
 - A C++ program that demonstrates object-oriented programming concepts by modeling different ship types using inheritance and polymorphism.
 
 
@@ -20,7 +20,7 @@ C++ compiler (CodeBlocks, VisualStudio)
 
 Installing:
 1. Clone the repository:
-- git clone https://github.com/your-username/ship-polymorphism-cpp.git
+- git clone https://github.com/JaidonAntwi/Ship-Manager.git
 
 2. Navigate into the project directory:
 - cd ship-polymorphism-cpp
@@ -30,7 +30,6 @@ Installing:
 
 Authors:
 Jaidon Antwi
-Computer Science Student
 GitHub: JaidonAntwi
 
 
