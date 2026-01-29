@@ -23,7 +23,7 @@ Installing:
 - git clone https://github.com/JaidonAntwi/Ship-Manager.git
 
 2. Navigate into the project directory:
-- cd ship-polymorphism-cpp
+- cd Ship-Manager
 
 3. Be sure that main.cpp and ShipFile.h are within the same directory.
 
